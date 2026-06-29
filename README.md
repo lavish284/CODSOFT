@@ -90,7 +90,9 @@ Logistic Regression
 
 ## Result
 
-The model achieved good prediction accuracy in identifying passenger survival outcomes.
+## Result
+
+The Logistic Regression model achieved an accuracy of approximately XX% on the test dataset.
 
 ## Conclusion
 
