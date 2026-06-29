@@ -1,3 +1,8 @@
+# CODSOFT Data Science Internship Projects
+
+This repository contains the projects completed during my CodSoft Data Science Internship.
+
+
 # Iris Flower Classification - CodSoft Data Science Internship
 
 ## Project Overview
