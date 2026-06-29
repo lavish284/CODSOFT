@@ -55,4 +55,43 @@ The model achieved approximately 96-100% accuracy on the test dataset.
 
 The Iris Flower Classification project successfully demonstrates the use of machine learning techniques to classify flower species based on their physical measurements.
 
-This project was completed as part of the CodSoft Data Science Internship.
+This project was completed as part of the CodSoft Data Science Internship
+
+
+
+
+# Titanic Survival Prediction
+
+## Project Overview
+
+This project uses Machine Learning techniques to predict whether a passenger survived the Titanic disaster.
+
+## Features Used
+
+- Age
+- Gender
+- Passenger Class
+- Fare
+- Family Members
+- Embarkation Point
+
+## Algorithm Used
+
+Logistic Regression
+
+## Workflow
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Feature Encoding
+- Model Training
+- Performance Evaluation
+
+## Result
+
+The model achieved good prediction accuracy in identifying passenger survival outcomes.
+
+## Conclusion
+
+This project demonstrates how Machine Learning can be applied to historical datasets to discover patterns and make predictions.
