@@ -92,7 +92,9 @@ Logistic Regression
 
 ## Result
 
-The Logistic Regression model achieved an accuracy of approximately XX% on the test dataset.
+## Result
+
+The Logistic Regression model achieved an accuracy of approximately 80.45% on the test dataset.
 
 ## Conclusion
 
